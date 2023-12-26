@@ -237,7 +237,7 @@
                           
                           <h5 class="register-link">Already Registered ? <a href="studentlogin.jsp">Login Now</a></h5>
                           </div>
-                           <div class="form-column"></div>
+                           <div class="foem-column"></div>
                      </div>
                   
                       

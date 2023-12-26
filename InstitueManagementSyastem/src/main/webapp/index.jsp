@@ -141,7 +141,7 @@
         <div class="navbar">
         <div class="navtext"><h1>ItInfinity</h1></div>
             <a href="#">Home</a>
-            <a href="aboutus.jsp">AboutUs</a>
+            <a href="aboutus.jsp">Aboutus</a>
             <a href="adminlogin.jsp">Admin</a>
             <a href="studentlogin.jsp">Student</a>
             <a href="studentregister.jsp">Register</a>
